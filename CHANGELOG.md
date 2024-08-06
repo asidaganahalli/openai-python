@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.39.1 (2024-08-06)
+
+Full Changelog: [v1.39.0...v1.39.1](https://github.com/openai/openai-python/compare/v1.39.0...v1.39.1)
+
+### Chores
+
+* **internal:** bump ruff version ([#1604](https://github.com/openai/openai-python/issues/1604)) ([3e19a87](https://github.com/openai/openai-python/commit/3e19a87255d8e92716689656afaa3f16297773b6))
+* **internal:** update pydantic compat helper function ([#1607](https://github.com/openai/openai-python/issues/1607)) ([973c18b](https://github.com/openai/openai-python/commit/973c18b259a0e4a8134223f50a5f660b86650949))
+
 ## 1.39.0 (2024-08-05)
 
 Full Changelog: [v1.38.0...v1.39.0](https://github.com/openai/openai-python/compare/v1.38.0...v1.39.0)
